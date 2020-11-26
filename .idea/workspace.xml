@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be15e5de-027b-415c-920d-1a93dc81a498" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jcMATtFlzBzLQ7xTdIofLxxwjb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Scroll Top Button" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be15e5de-027b-415c-920d-1a93dc81a498" name="Default Changelist" comment="" />
+      <created>1604098782857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604098782857</updated>
+      <workItem from="1604098783996" duration="16211000" />
+      <workItem from="1604128516595" duration="3950000" />
+      <workItem from="1604132739229" duration="3442000" />
+      <workItem from="1604155405788" duration="18771000" />
+      <workItem from="1604185312155" duration="265000" />
+      <workItem from="1604201830538" duration="1197000" />
+      <workItem from="1604276517951" duration="2624000" />
+      <workItem from="1604984113774" duration="282000" />
+      <workItem from="1605041880914" duration="362000" />
+      <workItem from="1605043122522" duration="911000" />
+      <workItem from="1605045285825" duration="68000" />
+      <workItem from="1605226625702" duration="1902000" />
+      <workItem from="1605457857252" duration="80000" />
+      <workItem from="1606024197479" duration="2940000" />
+      <workItem from="1606074708458" duration="9219000" />
+      <workItem from="1606151929393" duration="3742000" />
+      <workItem from="1606189493367" duration="102000" />
+      <workItem from="1606240011201" duration="5507000" />
+      <workItem from="1606315736408" duration="10210000" />
+      <workItem from="1606356109976" duration="20674000" />
+      <workItem from="1606404297987" duration="5949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="882" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606372541503">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="882" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1606372541503" />
+    <state x="932" y="186" key="FileChooserDialogImpl" timestamp="1606404773699">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="932" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606404773699" />
+    <state x="762" y="0" width="781" height="870" key="dock-window-1" timestamp="1606367033489">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="762" y="0" width="781" height="870" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1606367033489" />
+    <state x="-6" y="0" width="781" height="870" key="dock-window-2" timestamp="1606375568742">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-6" y="0" width="781" height="870" key="dock-window-2/0.0.1536.864@0.0.1536.864" timestamp="1606375568742" />
+    <state x="42" y="198" key="run.anything.popup" timestamp="1606408789910">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="42" y="198" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1606408789910" />
+    <state x="815" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1604131111989">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="815" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1604131111989" />
+  </component>
+</project>
